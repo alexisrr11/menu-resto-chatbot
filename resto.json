@@ -1,0 +1,37 @@
+[
+  {
+    "categoria": "entradas",
+    "nombre": "Bruschetta de tomate",
+    "descripcion": "Pan tostado, tomate, albahaca y aceite de oliva.",
+    "precio": 1200,
+    "imagen": "https://www.debemcomacomida.com.br/wp-content/uploads/2020/09/italian-bruschettas-7433A4M-scaled.jpg"
+  },
+  {
+    "categoria": "principales",
+    "nombre": "Milanesa a la napolitana",
+    "descripcion": "Milanesa con salsa, jamón, y queso gratinado. Acompañada de papas fritas.",
+    "precio": 2900,
+    "imagen": "https://i.pinimg.com/736x/9d/10/eb/9d10ebdfc474e6d12ce53591a2274450.jpg"
+  },
+  {
+    "categoria": "postres",
+    "nombre": "Cheesecake de frutillas",
+    "descripcion": "Base crocante, crema suave y salsa de frutillas.",
+    "precio": 1500,
+    "imagen": "https://zhangcatherine.com/wp-content/uploads/2021/08/straw-1024x1024.jpg"
+  },
+  {
+    "categoria": "bebidas",
+    "nombre": "Coca-Cola 500ml",
+    "descripcion": "Bebida fría.",
+    "precio": 600,
+    "imagen": "https://www.mcdonalds.at/wp-content/uploads/2021/09/web-neu-1500x1500-core-coca-cola-im-glas-0-25l-1.png"
+  },
+  {
+    "categoria": "cocteles",
+    "nombre": "Negroni",
+    "descripcion": "Gin, vermut rojo y Campari.",
+    "precio": 1800,
+    "imagen": "https://www.tasteofhome.com/wp-content/uploads/2019/04/Negroni-shutterstock_1084630808.jpg"
+  }
+]
